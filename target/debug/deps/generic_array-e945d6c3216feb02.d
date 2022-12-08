@@ -1,0 +1,11 @@
+/home/bmorkai/wba/week-4/BlasBoilerPlate/target/debug/deps/generic_array-e945d6c3216feb02.rmeta: /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/bmorkai/wba/week-4/BlasBoilerPlate/target/debug/deps/generic_array-e945d6c3216feb02.d: /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs
+
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/lib.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/hex.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/impls.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/arr.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/functional.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/iter.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.5/src/sequence.rs:

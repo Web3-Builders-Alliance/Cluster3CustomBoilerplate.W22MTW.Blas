@@ -1,0 +1,1 @@
+/home/bmorkai/wba/to_upload/5-cw-boiler-plate/target/debug/libcw_boiler_plate.so: /home/bmorkai/wba/to_upload/5-cw-boiler-plate/src/contract.rs /home/bmorkai/wba/to_upload/5-cw-boiler-plate/src/error.rs /home/bmorkai/wba/to_upload/5-cw-boiler-plate/src/lib.rs /home/bmorkai/wba/to_upload/5-cw-boiler-plate/src/msg.rs /home/bmorkai/wba/to_upload/5-cw-boiler-plate/src/state.rs
